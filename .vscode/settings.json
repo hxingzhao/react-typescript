@@ -44,11 +44,21 @@
 			"source.fixAll.stylelint": true,
 	},
 	"cSpell.words": [
+    "aliyun",
+    "corejs",
     "Espree",
+    "flexbugs",
     "Parens",
     "recommened",
     "stylelint",
-    "stylelintrc"
+    "stylelintrc",
+    "webpackbar"
   ],
+  "jumpToAliasFile.alias": {
+    "@": "/Users/huxingzhao/code/react-typescript/src",
+    "mock": "/Users/huxingzhao/code/react-typescript/mock",
+    "Components": "/Users/huxingzhao/code/react-typescript/src/components",
+    "Utils": "/Users/huxingzhao/code/react-typescript/src/utils"
+  },
 
 }

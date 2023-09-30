@@ -34,8 +34,8 @@ module.exports = {
   sourceType: 'module',
   jsx: true,
  },
- // Todo: settings还未找到相关说明文档
  settings: {
+  // eslint-import-resolver-typescript 相关配置
   'import/resolver': {
    node: {
     extensions: ['.tsx', '.ts', '.js', '.json'],
