@@ -19,6 +19,12 @@
   "npm": ">= 7.0.0",
   "yarn": ">= 1.22.17"
  },
+ "browserslist": [
+  ">0.2%",
+  "not dead",
+  "ie >= 9",
+  "not op_mini all"
+ ],
  "keywords": [],
  "author": "xingzhao",
  "license": "MIT",
